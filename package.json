@@ -1,0 +1,21 @@
+{
+  "name": "pandabot",
+
+  "version": "0.0.1",
+
+  "author": {
+    "name": "pandaboy"
+  },
+
+  "license": "MIT",
+
+  "keywords": [
+    "vindinium"
+  ],
+
+  "main": "random_bot.js",
+
+  "dependencies": {
+    "vindinium-client": "2.0.1"
+  }
+}
